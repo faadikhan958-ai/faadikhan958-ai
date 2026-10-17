@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Fawad 👋
 
-<!--
-**faadikhan958-ai/faadikhan958-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer | Python Learner
 
-Here are some ideas to get you started:
+I'm learning Python, Machine Learning, and Data Science through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills I'm Learning
+- Python
+- NumPy and Pandas
+- Matplotlib and Seaborn
+- Scikit-learn
+- Machine Learning model evaluation
+- Git and GitHub
+
+## 📊 Projects
+- Lahore AQI Prediction — predicting air quality using weather data
+- Flights Naive Baselines — comparing simple passenger prediction baselines
+- MPG Error Detective — exploring prediction errors
+
+## 🌱 Current Focus
+- Improving Machine Learning fundamentals
+- Understanding model evaluation and overfitting
+- Building practical projects and documenting my progress
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/muhammad-fawad-pitafi
+- Email: faadikhan958@gmail.com
