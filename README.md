@@ -1,27 +1,17 @@
-# Hi, I'm Muhammad Fawad 👋
+### 🚀 AI/ML Engineer | Bridging the Gap Between Notebooks & Production
 
-🎯 Aspiring AI/ML Engineer | Python Learner
+Hi, I'm Muhammad Fawad 👋. I specialize in building scalable Machine Learning pipelines, transitioning models from research (Jupyter) to production (FastAPI, Docker).
 
-I'm learning Python, Machine Learning, and Data Science through hands-on projects.
+#### 🛠️ Tech Stack & Engineering Practices
+*   **Machine Learning:** XGBoost, Scikit-Learn, Pandas
+*   **Production & Backend:** Python, FastAPI, RESTful APIs
+*   **MLOps:** Model Persistence (Pickle), System Logging, Modular Architectures (`.py`)
+*   **Version Control:** Git & GitHub
 
-## 🛠️ Skills I'm Learning
-- Python
-- NumPy and Pandas
-- Matplotlib and Seaborn
-- Scikit-learn
-- Machine Learning model evaluation
-- Git and GitHub
+#### 🔭 Current Focus
+*   Architecting a production-ready AQI prediction pipeline.
+*   Deploying ML models using FastAPI for real-time inference.
 
-## 📊 Projects
-- Lahore AQI Prediction — predicting air quality using weather data
-- Flights Naive Baselines — comparing simple passenger prediction baselines
-- MPG Error Detective — exploring prediction errors
-
-## 🌱 Current Focus
-- Improving Machine Learning fundamentals
-- Understanding model evaluation and overfitting
-- Building practical projects and documenting my progress
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/muhammad-fawad-pitafi
-- Email: faadikhan958@gmail.com
+#### 📫 Let's Connect
+*   **LinkedIn:** https://www.linkedin.com/in/muhammad-fawad-pitafi/
+*   **Email:** faadikhan958@gmail.com
